@@ -1,4 +1,5 @@
-# "You need to do what you do until the end exactly as you started"   - The Greatest Estate Developer
+# "You need to do what you do until the end exactly as you started"
+- The Greatest Estate Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
