@@ -18,7 +18,7 @@
   <img align="center" alt="Kaiky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaiky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaiky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="400" align="right" src="https://github.com/user-attachments/assets/001b6780-c57a-462d-a4db-921dae1e21a2" />
+  <img width="300" align="right" src="https://github.com/user-attachments/assets/a7b625a5-cc68-43bb-addf-afd4f20e57d6" />
 </div>
 
  ##
